@@ -1,0 +1,16 @@
+---
+layout: astra 
+sidebar: sidebar 
+permalink: index.html 
+lead: Discover your E-Series storage systems through Cloud Manager to get a complete view of data across your hybrid multicloud. 
+summary: 透過Cloud Manager探索您的E系列儲存系統、完整檢視混合式多雲端的資料。 
+---
+= E系列文件
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+

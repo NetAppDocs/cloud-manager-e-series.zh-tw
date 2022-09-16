@@ -1,0 +1,27 @@
+---
+sidebar: sidebar 
+permalink: whats-new.html 
+keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes, e-series' 
+summary: 瞭解Cloud Manager管理E系列系統的新功能。 
+---
+= E系列管理的新功能
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+瞭解Cloud Manager管理E系列系統的新功能。
+
+
+
+== 2022年9月18日
+
+
+
+=== 支援E系列
+
+您現在可以直接從Cloud Manager探索E系列儲存系統。探索E系列系統可讓您完整檢視混合式多雲端的資料。

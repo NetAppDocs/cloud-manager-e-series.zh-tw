@@ -1,0 +1,36 @@
+---
+sidebar: sidebar 
+permalink: task-view-e-series.html 
+keywords: e-series, cluster, view, volumes, hosts, management ip, serial number, system id, capacity, allocated capacity 
+summary: 探索E系列系統之後、您可以檢視容量分配、磁碟區和主機的詳細資料。 
+---
+= 檢視您的E系列系統
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+探索E系列系統之後、您可以檢視容量分配、磁碟區和主機的詳細資料。
+
+.步驟
+. 在「畫版」中、按兩下您要檢視的E系列工作環境名稱。
+. 選取任一索引標籤、即可檢視E系列系統的詳細資料：
++
+** *總覽*：詳細檢視系統的容量分配（已分配、可用及未分配的容量）、磁碟區數量、主機數量等。
++
+image:screenshot-overview.png["E系列工作環境中「總覽」索引標籤的快照。"]
+
+** * Volumes *：系統上磁碟區的詳細資料、包括指派、RAID層級、已分配容量等。
++
+image:screenshot-volumes.png["E系列工作環境中Volumes（磁碟區）索引標籤的快照。"]
+
+** *主機*：將I/O傳送至儲存系統上磁碟區的主機詳細資料。
++
+image:screenshot-hosts.png["E系列工作環境中的「主機」索引標籤快照。"]
+
+
+
+

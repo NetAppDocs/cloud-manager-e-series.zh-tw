@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: task-remove-e-series.html 
+keywords: e-series, remove, delete, remove e-series, delete cluster, delete working environment, remove working environment 
+summary: 如果您不想再從Cloud Manager管理E系列工作環境、請將其移除。 
+---
+= 移除E系列工作環境
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+如果您不想再從Cloud Manager管理E系列工作環境、請將其移除。
+
+移除工作環境不會影響E系列系統。您可以隨時從Cloud Manager重新探索。
+
+.步驟
+. 在「畫版」中、按兩下E系列工作環境的名稱。
+. 按一下功能表圖示、然後選取*從Workspace*移除。
++
+image:screenshot-remove.png["工作環境右上角功能表中的「從工作區移除」選項快照。"]
+
+. 按一下「 * 移除 * 」以確認。
+
