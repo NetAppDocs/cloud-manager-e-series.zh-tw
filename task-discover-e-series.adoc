@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-discover-e-series.html 
 keywords: e-series, cluster, discover, manage, discovering, discover e-series 
-summary: Cloud Manager可在內部部署環境中探索E系列儲存系統。將E系列系統新增至Cloud Manager可讓您完整檢視混合式多雲端的資料。 
+summary: BlueXP可在內部部署環境中探索E系列儲存系統。將E系列系統新增至BlueXP、即可在混合式多雲端上完整檢視資料。 
 ---
 = 探索E系列儲存系統
 :hardbreaks:
@@ -13,7 +13,7 @@ summary: Cloud Manager可在內部部署環境中探索E系列儲存系統。將
 :imagesdir: ./media/
 
 
-Cloud Manager可在內部部署環境中探索E系列儲存系統。將E系列系統新增至Cloud Manager可讓您完整檢視混合式多雲端的資料。
+BlueXP可在內部部署環境中探索E系列儲存系統。將E系列系統新增至BlueXP、即可在混合式多雲端上完整檢視資料。
 
 .您需要的是 #8217 ；需要的是什麼
 * 連接器安裝在雲端供應商或內部部署環境中、可連線至E系列儲存系統。
@@ -25,6 +25,7 @@ https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html[
 
 
 .步驟
+. 從導覽功能表中、選取*儲存設備> Canvas*。
 . 在「畫版」中、按一下「*新增工作環境*」、然後選取「*內部部署*」。
 . 選擇「* E系列*」、然後按一下「*下一步*」。
 . 如果出現提示、請建立連接器。
@@ -37,6 +38,6 @@ image:screenshot-cluster-details.png["螢幕快照會顯示E系列叢集詳細�
 
 
 
-Cloud Manager會探索E系列儲存系統、並將其新增為在Canvas.上的工作環境。
+BlueXP會探索E系列儲存系統、並將其新增為畫版上的工作環境。
 
-image:screenshot-canvas.png["顯示Cloud Manager畫版上E系列工作環境的快照。"]
+image:screenshot-canvas.png["顯示BlueXP畫版上E系列工作環境的快照。"]

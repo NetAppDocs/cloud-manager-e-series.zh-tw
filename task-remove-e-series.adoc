@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-remove-e-series.html 
 keywords: e-series, remove, delete, remove e-series, delete cluster, delete working environment, remove working environment 
-summary: 如果您不想再從Cloud Manager管理E系列工作環境、請將其移除。 
+summary: 如果您不想再從BlueXP管理E系列工作環境、請將其移除。 
 ---
 = 移除E系列工作環境
 :hardbreaks:
@@ -14,9 +14,9 @@ summary: 如果您不想再從Cloud Manager管理E系列工作環境、請將其
 
 
 [role="lead"]
-如果您不想再從Cloud Manager管理E系列工作環境、請將其移除。
+如果您不想再從BlueXP管理E系列工作環境、請將其移除。
 
-移除工作環境不會影響E系列系統。您可以隨時從Cloud Manager重新探索。
+移除工作環境不會影響E系列系統。您可以隨時從BlueXP重新探索。
 
 .步驟
 . 在「畫版」中、按兩下E系列工作環境的名稱。

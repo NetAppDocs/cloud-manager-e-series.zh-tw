@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: whats-new.html 
 keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes, e-series' 
-summary: 瞭解Cloud Manager管理E系列系統的新功能。 
+summary: 瞭解在BlueXP中管理E系列系統的新功能。 
 ---
 = E系列管理的新功能
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: 瞭解Cloud Manager管理E系列系統的新功能。
 
 
 [role="lead"]
-瞭解Cloud Manager管理E系列系統的新功能。
+瞭解在BlueXP（前身為Cloud Manager）中管理E系列系統的新功能。
 
 
 
@@ -24,4 +24,4 @@ summary: 瞭解Cloud Manager管理E系列系統的新功能。
 
 === 支援E系列
 
-您現在可以直接從Cloud Manager探索E系列儲存系統。探索E系列系統可讓您完整檢視混合式多雲端的資料。
+您現在可以直接從BlueXP探索E系列儲存系統。探索E系列系統可讓您完整檢視混合式多雲端的資料。
