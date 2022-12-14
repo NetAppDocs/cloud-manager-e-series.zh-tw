@@ -15,7 +15,7 @@ summary: BlueXP可在內部部署環境中探索E系列儲存系統。將E系列
 
 BlueXP可在內部部署環境中探索E系列儲存系統。將E系列系統新增至BlueXP、即可在混合式多雲端上完整檢視資料。
 
-.您需要的是 #8217 ；需要的是什麼
+.您需要的產品
 * 連接器安裝在雲端供應商或內部部署環境中、可連線至E系列儲存系統。
 +
 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["深入瞭解連接器及如何建立連接器"^]
@@ -38,6 +38,7 @@ image:screenshot-cluster-details.png["螢幕快照會顯示E系列叢集詳細�
 
 
 
+.結果
 BlueXP會探索E系列儲存系統、並將其新增為畫版上的工作環境。
 
 image:screenshot-canvas.png["顯示BlueXP畫版上E系列工作環境的快照。"]
